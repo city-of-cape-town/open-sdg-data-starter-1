@@ -1,0 +1,33 @@
+Year,Method of Travel,Travel Time to Work,Units,Value
+2014,Office is at home,,Percent,8.5
+2014,Walking,,Percent,7.2
+2014,Bicycle/motocycle,,Percent,1.1
+2014,Minibus taxi/sedan taxi/bakkie taxi,,Percent,14.3
+2014,Bus,,Percent,11
+2014,Train,,Percent,14.8
+2014,Lift club by a group of people sharing private a vehicle,,Percent,2.9
+2014,Own car/other private vehicle/company vehicle,,Percent,39.3
+2014,Other (specify in the box),,Percent,0.2
+2014,Unspecified,,Percent,0.7
+2014,,Less than 15 minutes,Time in Minutes,18.05
+2014,,15–30 minutes,Time in Minutes,33.9
+2014,,31–60 minutes,Time in Minutes,34.07
+2014,,61–90 minutes,Time in Minutes,10.71
+2014,,More than 90 minutes,Time in Minutes,0.44
+2014,,Unknown,Time in Minutes,2.84
+2018,Office is at home,,Percent,9.7
+2018,Walking,,Percent,9
+2018,Bicycle/motocycle,,Percent,1.5
+2018,Minibus taxi/sedan taxi/bakkie taxi,,Percent,19.5
+2018,Bus,,Percent,8.3
+2018,Train,,Percent,6.2
+2018,Lift club by a group of people sharing a private vehicle,,Percent,2.2
+2018,Own car/other private vehicle/company vehicle,,Percent,42.8
+2018,Other (specify in the box),,Percent,0.2
+2018,Unspecified,,Percent,0.8
+2018,,Less than 15 minutes,Time in Minutes,14.2
+2018,,15–30 minutes,Time in Minutes,35.56
+2018,,31–60 minutes,Time in Minutes,37.11
+2018,,61–90 minutes,Time in Minutes,9.84
+2018,,More than 90 minutes,Time in Minutes,0.42
+2018,,Unknown,Time in Minutes,2.87
